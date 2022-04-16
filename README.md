@@ -1,39 +1,77 @@
 # 简历制作技巧
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+## 课程导论
 
-#### 软件架构
-软件架构说明
+### 第 1 讲：认识简历的本质
 
+- 
 
-#### 安装教程
+-  [认识简历的本质.pdf](docs/认识简历的本质.pdf) 
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- 延展知识：CV 和 RESUME 的区别是什么？
 
-#### 使用说明
+  - CV是源自拉丁文，即Curriculum Vitae,有生活过程的意思。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+    一般来讲，C V的内容相对较多，常常被用在欧洲一些国家的大学申请过程中综述本人的履历和综合能力的场景中。另外，国外（如美国、德国等）一些学术圈范畴的求职场景，也会使用CV。
 
-#### 参与贡献
+  - RESUME 求职简历的意思，通常用在一般性岗位的求职场景，其主要是匹配针对职位的能力、履历的内容匹配。
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+    RESUME使用场景比较广泛，主要用于一般性的求职岗位申请。即便你是在国外，只要不是申请大学或者学术圈职位之外的岗位，一般使用的都还是RESUME。
 
+## 模块一：简历内容组成
 
-#### 特技
+### 第 2 讲：简历制作的前期准备
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+- 
+-  [简历制作的前期准备.pptx](docs/简历制作的前期准备.pptx) 
+
+### 第 3 讲：基础信息
+
+- 
+-  [简历中的基础信息的写法.pptx](docs/简历中的基础信息的写法.pptx) 
+
+### 第 4 讲：岗位能力要素信息
+
+- 
+-  [岗位能力要素的写法.pdf](docs/岗位能力要素的写法.pdf) 
+
+### 第 5 讲：综合素养信息
+
+- 
+-  [综合魅力素养的体现.pdf](docs/综合魅力素养的体现.pdf) 
+
+### 第 6 讲：简历中的点睛之笔
+
+- 
+
+## 模块二：简历内容规范
+
+### 第 7 讲：简历中的语言要点
+
+- 
+-  [简历中的语言规范.pdf](docs/简历中的语言规范.pdf) 
+
+### 第 8 讲：简历中的版式
+
+- 
+-  [简历中的版式.pdf](docs/简历中的版式.pdf) 
+
+### 第 9 讲：简历制作过程的常见错误
+
+- 
+-  [简历制作过程中的常见错误.pdf](docs/简历制作过程中的常见错误.pdf) 
+
+## 模块三：简历的投递
+
+### 第 10 讲：简历的投递
+
+- 
+-  [简历投递的注意事项.pdf](docs/简历投递的注意事项.pdf) 
+
+## 模块四：简历制作工具助手
+
+- [简历制作自检表.docx](docs/简历制作自检表.docx)
+-  [简历样例1（Java开发岗位）.pdf](docs/简历样例1（Java开发岗位）.pdf) 
+-  [简历样例2（测试岗位）.pdf](docs/简历样例2（测试岗位）.pdf) 
+-  [简历样例3（Java开发岗）.pdf](docs/简历样例3（Java开发岗）.pdf) 
+-  [简历样例4（Java开发岗）.pdf](docs/简历样例4（Java开发岗）.pdf) []()
